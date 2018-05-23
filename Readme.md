@@ -3,7 +3,7 @@
 ## Ausgangslage
 Diverse Open-Source-Projekte und Software-Entwickler nutzen während Meetings [etherpad](http://etherpad.org/) um ein Protokoll der Sitzung mitzuschreiben. Es handelt sich dabei um einen kolaborativen Editor, bei dem viele Leute gleichzeitig editieren können:
 
-* [Beispiel zum Testen](https://etherpad.gnome.org/p/nextpad)
+* [Beispiel zum Testen](https://etherpad.gnome.org/p/interactiondesign)
 
 ## Probleme
 So vielfältig wie die Anwendungen sind auch die Probleme mit etherpad. Die Nachfolgenden Probleme sind für den aktuellen Case Study zu adressieren:
