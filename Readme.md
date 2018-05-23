@@ -56,9 +56,7 @@ Die Entwürfe und der Tag als solches wird in einem Blogpost von den Dozierenden
 * Die Zuständigkeit der Aufgaben ist ersichtlich
 * Die Userführung ist überlegt und offensichtlich
 
-### Grafisches Konzept (30%)
-* Das grafische Konzept ist schlüssig und durchgängig
-* Grafische Sprache entspricht dem Inhalt
-* Typografie überlegt eingesetzt
-* Screenarchitektur überlegt
+### Konzept (30%)
+* Das Konzept ist schlüssig und durchgängig
+* Informationsarchitektur überlegt
 * Zweckmässigkeit gegeben
